@@ -473,7 +473,7 @@ strong {
 /*END Xbox 360 Controller Styling*/
 
 /*BEGIN Xbox One Controller Styling*/
-.controller.xbox {
+.controller.xbox .edit {
     background: url(https://github.com/khixxx/CSS-OVER/blob/Master/xbox-assets/base.svg);
     height: 630px;
     width: 750px;
